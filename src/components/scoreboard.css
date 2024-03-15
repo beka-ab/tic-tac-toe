@@ -1,0 +1,18 @@
+.scoreboard {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 10px;
+  margin-top: 20px;
+}
+.x-score {
+  color: yellowgreen;
+  font-size: 27px;
+  font-weight: bold;
+}
+.o-score {
+  color: royalblue;
+
+  font-size: 27px;
+  font-weight: bold;
+}
